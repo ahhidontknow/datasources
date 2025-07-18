@@ -71,6 +71,9 @@ https://data.worldbank.org/ <br>
 https://fred.stlouisfed.org/ <br>
 https://www.nzier.org.nz/data-1850 <br>
 
+## Cyber Security
+https://github.com/shramos/Awesome-Cybersecurity-Datasets?tab=readme-ov-file <br>
+
 ## Movies
 https://grouplens.org/datasets/ <br>
 
