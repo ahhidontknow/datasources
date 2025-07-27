@@ -26,6 +26,7 @@ https://okfn.org/en/ <br>
 
 ## Biological
 https://www.internationalgenome.org/data <br>
+https://alphafold.ebi.ac.uk/ <br>
 
 # Science
 https://www.earthdata.nasa.gov/centers/sedac-daac <br>
